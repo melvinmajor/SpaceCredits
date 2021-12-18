@@ -1,0 +1,13 @@
+# Git ignore of Dreamnet repository
+# See repository at https://github.com/melvinmajor/SpaceCredits
+# =============================================================
+
+# Editor folder
+.idea/
+
+# Documents and useless files/folders
+thumbs.db
+.DS_Store
+
+# Necessary file for webserver
+robots.txt
